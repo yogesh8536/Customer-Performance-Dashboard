@@ -65,4 +65,9 @@ This dashboard provides a detailed analysis of customer performance based on key
 **Purpose & Business Use Case:**
 This dashboard helps businesses analyze customer demographics, spending behaviors, and revenue contributions to optimize marketing strategies, customer engagement, and sales performance. It highlights key growth areas, such as age-based and geographic revenue trends, loyalty segmentation, and high-value customer targeting.
 
-Data: 
+Data: https://github.com/yogesh8536/Customer-Performance-Dashboard/blob/main/AdventureWorksDW.xlsx
+
+Dashboard: https://github.com/yogesh8536/Customer-Performance-Dashboard/blob/main/Customer%20Performance%20Dashboard.pbix
+
+Images: https://github.com/yogesh8536/Customer-Performance-Dashboard/blob/main/Customer%20Performance%20Dashboard_Dark.JPG
+        https://github.com/yogesh8536/Customer-Performance-Dashboard/blob/main/Customer%20Performance%20Dashboard_Dark.JPG
